@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="640dp"
+    android:height="480dp"
+    android:viewportWidth="640"
+    android:viewportHeight="480">
+
+    <group>
+        <clip-path
+            android:pathData="M0,0 L682.67,0 L682.67,512 L0,512 Z" />
+        <path
+            android:fillColor="#ff0"
+            android:fillType="evenOdd"
+            android:pathData="M0,0 L768.77,0 L768.77,128 L0,128 Z" />
+        <path
+            android:fillColor="#fff"
+            android:fillType="evenOdd"
+            android:pathData="M0,128 L768.77,128 L768.77,256 L0,256 Z" />
+        <path
+            android:fillColor="#be0027"
+            android:fillType="evenOdd"
+            android:pathData="M0,256 L768.77,256 L768.77,384 L0,384 Z" />
+        <path
+            android:fillColor="#3b5aa3"
+            android:fillType="evenOdd"
+            android:pathData="M0,384 L768.77,384 L768.77,512 L0,512 Z" />
+        <path
+            android:fillColor="#239e46"
+            android:fillType="evenOdd"
+            android:pathData="M0,0 L0,512 L381.86,256.72 L0,0 Z" />
+        <path
+            android:fillColor="#fff"
+            android:fillType="evenOdd"
+            android:pathData="M157.21,141.43 C72.113,137.12,33.34,204.9,33.43,257.3
+C33.236,319.27,91.959,370.38,146.24,367.29
+C116.97,353.45,81.232,314.63,80.903,257.04
+C80.603,204.86,110.4,159.49,157.21,141.43 Z" />
+        <path
+            android:fillColor="#fff"
+            android:fillType="evenOdd"
+            android:pathData="M155.927,197.058 L143.935,187.673 L129.396,192.249 L134.611,177.932
+L125.78,165.522 L141.007,166.05 L150.072,153.812 L154.267,168.461
+L168.719,173.307 L156.075,181.831 Z M155.672,249.121 L143.679,239.736
+L129.141,244.312 L134.356,229.995 L125.525,217.585 L140.752,218.113
+L149.817,205.875 L154.011,220.524 L168.464,225.37 L155.819,233.894 Z
+M155.927,301.698 L143.935,292.313 L129.396,296.889 L134.611,282.572
+L125.78,270.162 L141.007,270.69 L150.072,258.451 L154.267,273.101
+L168.719,277.947 L156.075,286.471 Z M155.672,354.778 L143.679,345.393
+L129.141,349.969 L134.356,335.652 L125.525,323.242 L140.752,323.77
+L149.817,311.531 L154.011,326.181 L168.464,331.027 L155.819,339.551 Z" />
+    </group>
+</vector>
